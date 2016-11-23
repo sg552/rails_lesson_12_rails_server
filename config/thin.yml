@@ -1,5 +1,5 @@
 ---
-chdir: 'your/path'  #  这里需要修改。
+chdir: '/workspace/rails_lesson_servers'  #  这里需要修改。
 environment: production
 address: 0.0.0.0
 port: 6661

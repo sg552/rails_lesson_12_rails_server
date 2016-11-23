@@ -3,6 +3,7 @@ source 'https://gems.ruby-china.org'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.1.6'
+gem 'thin'
 
 gem 'mysql2', '0.3.17'
 
