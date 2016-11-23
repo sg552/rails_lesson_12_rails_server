@@ -1,0 +1,1 @@
+console.info("I am a.js"),console.info("I am b.js"),sum=function(n,o){return n+o},hi=function(){console.info("hi")};

@@ -1,0 +1,13 @@
+development:
+  adapter: mysql2
+  database: test_association
+  username: root
+  password:
+  host: localhost
+
+production:
+  adapter: mysql2
+  database: test_association
+  username: root
+  password:
+  host: localhost

@@ -1,0 +1,15 @@
+{
+    "utf8"=>"✓",
+    "_method"=>"patch",
+    "authenticity_token"=>"Kr1JQ3C6yna4i3YSvZv8YdtvLNJ8LhJ8s2xpmM2zBl8=",
+
+    "book"=>{
+        "title"=>"三体1",
+        "author"=>"刘慈欣-大刘厉害!"
+    },
+
+    "commit"=>"Update Book",
+    "action"=>"update",
+    "controller"=>"books",
+    "id"=>"1"
+}
